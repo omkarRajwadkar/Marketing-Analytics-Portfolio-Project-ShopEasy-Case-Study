@@ -1,4 +1,4 @@
-# Marketing-Analytics-Portfolio-Project-ShopEasy-Case-Study
+# Marketing-Analytics-Project-ShopEasy-Case-Study
 
 
 ## 🚀 Project Overview
