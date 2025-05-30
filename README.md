@@ -75,3 +75,12 @@ ShopEasy has reported:
 - Follow-up with dissatisfied customers for re-engagement.
 
 ---
+
+
+## 📌 Tools & Technologies
+
+- Excel / Google Sheets
+- PowerPoint
+- Python (optional for deeper analysis)
+- Power BI
+---
